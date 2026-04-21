@@ -122,4 +122,5 @@ House Blend Coffee, Mocha, Mocha, Whip $1.39
 ## 4. 运行截图 + 图注
 
 <img width="608" height="49" alt="652ea451694e3945d063c102bdd5da85" src="https://github.com/user-attachments/assets/818c77aa-b640-430b-8bf4-e2c09ceb682c" />
-
+**图 1 图注：**
+`House Blend Coffee` 经过 `Mocha -> Mocha -> Whip` 三层装饰后，描述和价格均逐层叠加，证明了**在不改基础类代码的前提下实现运行时扩展**。
